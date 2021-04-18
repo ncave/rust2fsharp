@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "dotnet build",
+    "test": "dotnet run ../codegen/src out",
+    "test2": "dotnet run ../rust/compiler/rustc_ast_pretty/src out"
+  }
+}

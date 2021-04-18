@@ -1,0 +1,21 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Packages
+node_modules
+jspm_packages
+
+# Binaries
+bin
+obj
+
+# Output
+.ionide
+out
