@@ -10,8 +10,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             "program": "${workspaceFolder}/bin/Debug/net5.0/rust2fsharp.dll",
-            "args": ["../codegen/src", "out"],
-            // "args": ["../rust/compiler/rustc_ast_pretty/src", "out"],
+            "args": ["../rust/compiler/rustc_ast_pretty/src", "out"],
             "cwd": "${workspaceFolder}",
             "stopAtEntry": false,
             "console": "internalConsole"
