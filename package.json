@@ -3,6 +3,6 @@
   "type": "module",
   "scripts": {
     "build": "dotnet build",
-    "test": "dotnet run ../rust/compiler/rustc_ast_pretty/src out"
+    "test": "dotnet run ../rust-project/src out"
   }
 }
